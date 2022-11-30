@@ -1,6 +1,6 @@
 # Guidelines à destination des collaborateurs - Fenrir.pro
 
-Ce guide est d'informations sur le déroulement des audits destiné aux collaborateur.ices de **fenrir.pro**, il détaille les différentes phases d'audit ainsi que le déroulé des missions et des intéractions entre les différents membres de l'équipe d'audit.
+Ce guide contient des informations sur le déroulement des audits destiné aux collaborateur.ices de **fenrir.pro**, il détaille les différentes phases d'audit ainsi que le déroulé des missions et des intéractions entre les différents membres de l'équipe d'audit.
 
 ---
 
@@ -41,6 +41,18 @@ Un *accord de non divulgation* devra être signé par tous les tiers participant
 Le début d'un audit est initié par une réunion de présentation du scope de l'audit par le chef de projet assigné à l'audit *@fenrir.pro*.
 
 Au cours de cette réunion, seront présentés le **scope** de l'audit, le client concerné (dans les limites de sa confidentialité) ainsi que les conditions de l'audit.
+
+---
+
+## Fin d'un audit
+
+### Réunion de fin d'audit
+
+À la suite du rendu du livrable, une réunion de fin d'audit pourra être organisée entre la personne en charge du projet chez *fenrir.pro* et les différents prestataires pour faire un compte-rendu de fin de mission.
+
+#### Rendu de la facture
+
+Une facture devra être établie à la suite de l'audit par les différents prestataires impliqués.
 
 ---
 
