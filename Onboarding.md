@@ -5,6 +5,7 @@
 ## Fenrir.pro
 
 - NDA
+- Hardware/Software Setup
 - RIB
 - Guidelines
 - Trello
