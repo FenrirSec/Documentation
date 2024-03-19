@@ -56,6 +56,8 @@
 
 - Pre-audit meeting
 
+- Audit Autorization Document Signature (!)
+
 - Beginning of the audit
   - Reconnaissance
     - Looking at technical and organizational info available online, for instance source code, emails, tools version numbers in job offers, veryfing IPs and domains and subdomains in databases etc...
