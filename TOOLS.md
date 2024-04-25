@@ -1,5 +1,9 @@
 # Ethical Hacking Tools
 
+Collection of Ethical Hacking tools showcased training sessions.
+
+ > "Tools are the subtlest of traps. We become reliant upon them and in their absence we are vulnerable, weak, defenseless"
+
 ## Recon
 
 ### CLI // GUI
