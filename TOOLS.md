@@ -54,6 +54,7 @@ Collection of Ethical Hacking tools showcased training sessions.
 ## Enum
 
 - [crackmapexec](https://github.com/byt3bl33d3r/CrackMapExec)
+- [Impacket](https://github.com/fortra/impacket)
 - [smbclient](https://www.samba.org/samba/docs/current/man-html/smbclient.1.html)
 - [ssh-enum (metasploit module)](https://www.infosecmatter.com/metasploit-module-library/?mm=auxiliary/scanner/ssh/ssh_enumusers)
 - [dirb](https://www.kali.org/tools/dirb/)
