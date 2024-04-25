@@ -59,8 +59,9 @@ Collection of Ethical Hacking tools showcased training sessions.
 - [gobuster](https://github.com/OJ/gobuster)
 
 ---
+## Exploitation
 
-## System Exploitation
+### System Exploitation
 
 - [metasploit](https://www.metasploit.com/)
     - meterpreter
@@ -73,7 +74,7 @@ Collection of Ethical Hacking tools showcased training sessions.
 - [johntheripper](https://github.com/openwall/john)
 - [onlinehashcrack.com](https://www.onlinehashcrack.com)
 
-## Web Exploitation
+### Web Exploitation
 
 - [ffuf](https://github.com/ffuf/ffuf)
 - [burpsuite](https://portswigger.net/burp/communitydownload)
@@ -83,7 +84,7 @@ Collection of Ethical Hacking tools showcased training sessions.
 - [noSQLmap](https://github.com/codingo/NoSQLMap)
 - [httpx](https://github.com/projectdiscovery/httpx)
 
-## Mobile Exploitation
+### Mobile Exploitation
 
 - [apktool]()
 - [apkleaks](https://github.com/dwisiswant0/apkleaks)
@@ -94,6 +95,8 @@ Collection of Ethical Hacking tools showcased training sessions.
 
 ## Post-Exploitation
 
+### CLI // GUI
+
 - [netcat](https://www.kali.org/tools/netcat/)
 - [ncat](https://nmap.org/ncat/)
 - [socat](https://www.kali.org/tools/socat/)
@@ -101,7 +104,7 @@ Collection of Ethical Hacking tools showcased training sessions.
 - [linenum.sh](https://github.com/rebootuser/LinEnum/tree/master)
 - [termbin](https://termbin.com)
 
-### Sites
+### Web-Based
 
 - [revshells.com](https://revshells.com)
 - [CyberChef](https://gchq.github.io/CyberChef/)
