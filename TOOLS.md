@@ -22,6 +22,7 @@ Welcome to our curated list of Ethical Hacking tools! Whether you're a beginner 
 - [securitytrails.com](https://securitytrails.com) - Domain and IP intelligence tool.
 - [crt.sh](https://crt.sh) - Certificate transparency search tool.
 - [shodan.io](https://shodan.io) - Search engine for Internet-connected devices.
+- [predictasearch.com](https://www.predictasearch.com) - Discover exposed EPIs online.
 - [epieos.com](https://epieos.com) - Discover exposed EPIs online.
 - [grayhatwarfare.com](https://greyhatwarfare.com) - Search engine for finding open AWS S3 buckets.
 - [dorkgenius.com](https://dorkgenius.com/) - Google dork generator.
