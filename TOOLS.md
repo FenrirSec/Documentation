@@ -47,6 +47,7 @@ Welcome to our curated list of Ethical Hacking tools! Whether you're a beginner 
 - [nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner.
 - [OFFAT](https://github.com/OWASP/OFFAT) - Offensive Automation Framework And Tools.
 - [nikto](https://www.kali.org/tools/nikto/) - Web server scanner.
+- [trivy](https://github.com/aquasecurity/trivy) - Docker images scanner.
 
 ## Enumeration 📋
 
