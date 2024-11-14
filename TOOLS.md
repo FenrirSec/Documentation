@@ -72,6 +72,7 @@ Welcome to our curated list of Ethical Hacking tools! Whether you're a beginner 
 - [hashcat](https://hashcat.net/hashcat/) - Password recovery tool.
 - [johntheripper](https://github.com/openwall/john) - Password cracker.
 - [onlinehashcrack.com](https://www.onlinehashcrack.com) - Online hash cracking service.
+- [ntlm.pw](https://ntlm.pw) - NTLM hash database (every <= 9characters combinations).
 
 ### Web Exploitation
 
