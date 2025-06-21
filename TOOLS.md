@@ -21,6 +21,7 @@ Welcome to our curated list of Ethical Hacking tools! Whether you're a beginner 
 - [hunter.io](https://hunter.io) - Email hunter tool.
 - [securitytrails.com](https://securitytrails.com) - Domain and IP intelligence tool.
 - [crt.sh](https://crt.sh) - Certificate transparency search tool.
+- [ctail](https://github.com/hdm/ctail.git) - CLI certificate transparency search tool.
 - [shodan.io](https://shodan.io) - Search engine for Internet-connected devices.
 - [predictasearch.com](https://www.predictasearch.com) - Discover exposed EPIs online.
 - [epieos.com](https://epieos.com) - Discover exposed EPIs online.
