@@ -15,6 +15,7 @@ Welcome to our curated list of Ethical Hacking tools! Whether you're a beginner 
 - [traceroute](https://www.geeksforgeeks.org/traceroute-command-in-linux-with-examples/) - Discover the route taken by packets across an IP network.
 - [sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool.
 - [subfinder](https://github.com/projectdiscovery/subfinder) - Subdomain discovery tool.
+- [urx](https://github.com/hahwul/urx) - URL discovery from archived webpages.
 
 ### Web-based 🌐
 
