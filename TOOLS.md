@@ -59,6 +59,7 @@ Welcome to our curated list of Ethical Hacking tools! Whether you're a beginner 
 - [ssh-enum (metasploit module)](https://www.infosecmatter.com/metasploit-module-library/?mm=auxiliary/scanner/ssh/ssh_enumusers) - SSH user enumeration module for Metasploit.
 - [dirb](https://www.kali.org/tools/dirb/) - Web content scanner.
 - [gobuster](https://github.com/OJ/gobuster) - Directory/file & DNS busting tool.
+- [jwt-secrets](https://github.com/wallarm/jwt-secrets/blob/master/jwt.secrets.list) - List of default JWT secrets for cracking purposes.
 
 ## Exploitation 💥
 
