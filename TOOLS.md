@@ -93,6 +93,9 @@ Welcome to our curated list of Ethical Hacking tools! Whether you're a beginner 
 - [apkleaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for endpoints and secrets.
 - [hermes-dec (React Hermes Decompiler)](https://github.com/P1sec/hermes-dec) - Tool to decompile React Native apps.
 
+### Decompilation
+- https://pylingual.io/ (Python .pyc decompiler)
+
 ## Post-Exploitation 📝
 
 ### CLI // GUI
