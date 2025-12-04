@@ -81,7 +81,8 @@ Welcome to our curated list of Ethical Hacking tools! Whether you're a beginner 
 ### Web Exploitation
 
 - [ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer.
-- [burpsuite](https://portswigger.net/burp/communitydownload) - Web vulnerability scanner.
+- [burpsuite](https://portswigger.net/burp/communitydownload) - Java-based interception proxy and vulnerability scanner.
+- [caido](https://caido.io/) - Interception proxy with a web (and also Electron) interface.
 - [pwnloris](https://github.com/h0ussni/pwnloris) - Slowloris DoS attack tool.
 - [sqlmap](https://sqlmap.org/) - Automatic SQL injection and database takeover tool.
 - [p0wny webshell](https://github.com/flozz/p0wny-shell) - Simple web shell.
