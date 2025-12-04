@@ -55,6 +55,7 @@ Welcome to our curated list of Ethical Hacking tools! Whether you're a beginner 
 
 - [crackmapexec](https://github.com/byt3bl33d3r/CrackMapExec) - Swiss army knife for pentesting networks.
 - [Impacket](https://github.com/fortra/impacket) - Collection of Python classes for working with network protocols.
+- [NetExec](https://github.com/Pennyw0rth/NetExec-Wiki) - NetExec - Network Enumeration Tool for Windows/UNIX-based hosts.
 - [smbclient](https://www.samba.org/samba/docs/current/man-html/smbclient.1.html) - Samba client tool.
 - [ssh-enum (metasploit module)](https://www.infosecmatter.com/metasploit-module-library/?mm=auxiliary/scanner/ssh/ssh_enumusers) - SSH user enumeration module for Metasploit.
 - [dirb](https://www.kali.org/tools/dirb/) - Web content scanner.
