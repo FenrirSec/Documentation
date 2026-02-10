@@ -78,7 +78,7 @@ Alongside those tasks, we also develop projects, which requires people with deve
 - Flexibility (do not always have strict defined work times as long as objectives are done and everyone can communicate)
 - Keep the Hackers values alive
   - Sharing of knowledge (We open source what we can, take some time to teach each other, avoid secrets)
-  - Openness (Respect and accept others and their experiences) #IT was at a time a safe place for weirdos and outcasts of all kind and it should stay that way)
+  - Openness (Respect and accept others and their experiences) [IT was at a time a safe place for weirdos and outcasts of all kind and it should stay that way]()
   - World improvement (Overall we aim to make things better, if there is an eco-thougtful solution, prefer this one, if we can work for more ethical companies, even for less money, we'll do it)
 
 ---
