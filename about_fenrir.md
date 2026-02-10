@@ -1,13 +1,13 @@
 # What we do (in the shadows)?
 
-Fenrir.pro has been created in 2023 (as a company) but was more of a "brand" name before, with my auto-entreprise running behind.
+Fenrir.pro has been created in 2023 (as a company) but was more of a "brand" name before, with my micro-entreprise.
 
-As of today (26/03/2024), fenrir.pro has 2 main activities :
+As of today (26/03/2024), fenrir.pro has 2 main activities:
 
 - PenTest
 - Training
 
-And other secondary activities, including content creation and marketing.
+And other tertiary activities, including content creation and marketing.
 
 ## Pentest
 
@@ -15,7 +15,7 @@ Penetration testing missions for small to bigger companies, often but not only i
 
 Mostly remote GNU/Linux (sometimes Windows) infrastructures, from 1 server to hundreds of machines.
 
-They usually last about 4 days and we try to do at least 1/month, it's sometimes more, sometimes less depending on the year.
+They usually last about 4 days and we try to do at least 2/month.
 
 We sometimes do incident response, but it's not one of our main activities and we might stop doing it someday.
 
@@ -24,8 +24,6 @@ We sometimes do incident response, but it's not one of our main activities and w
 Hosting in-house training sessions was one of the reasons of the creation of fenrir.pro (the company), I've been designing a few training sessions since then and creating online content.
 
 Training sessions are done on site as of today, at the client's location.
-
-I'd like to have them available online someday.
 
 ## Content creation
 
@@ -53,7 +51,6 @@ Alongside those tasks, we also develop projects, which requires people with deve
 - Honeypot
 - Vulpes
 - hack.courses
-- feed.fenrir.pro
 
 ---
 
@@ -68,11 +65,9 @@ Alongside those tasks, we also develop projects, which requires people with deve
 
 ## Projects
 
-- Twitch Lives
-- More Youtube
+- More Video Production
 - Newsletter ?
-- Talks
-- Remake the website to more clearly
+- More Talks
 
 ---
 
@@ -80,10 +75,10 @@ Alongside those tasks, we also develop projects, which requires people with deve
 
 - People's Autonomy
 - Value of everyone's free time (no overtime unless a client pays for it)
-- Flexibility (do not have defined work times as long as objectives are done and everyone can communicate)
+- Flexibility (do not always have strict defined work times as long as objectives are done and everyone can communicate)
 - Keep the Hackers values alive
   - Sharing of knowledge (We open source what we can, take some time to teach each other, avoid secrets)
-  - Openness (Respect and accept others and their experiences, IT was at a time a safe place for weirdos and outcasts of all kind and it should stay that way)
+  - Openness (Respect and accept others and their experiences) #IT was at a time a safe place for weirdos and outcasts of all kind and it should stay that way)
   - World improvement (Overall we aim to make things better, if there is an eco-thougtful solution, prefer this one, if we can work for more ethical companies, even for less money, we'll do it)
 
 ---
