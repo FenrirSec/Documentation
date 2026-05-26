@@ -32,6 +32,7 @@ Welcome to our curated list of Ethical Hacking tools! Whether you're a beginner 
 - [overpass-turbo.eu](https://overpass-turbo.eu) - Query tool for OpenStreetMap data.
 - [Wigle.net](https://wigle.net) - Wireless network mapping service.
 - [grep.app](https://grep.app/) - Search code in repositories hosted on GitHub, GitLab, Bitbucket.
+- [unwaf](https://mmartin.me/tools/unwaf) - Detect and bypass WAFs.
 
 ## Scan 📡
 
